@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "display_name": "Medicine 1",
+    "names": [
+      "GenericName1",
+      "BrandName1"
+    ],
+    "imprints": [
+      "M1A",
+      "M1B"
+    ],
+    "uses": "This medicine 1 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 1 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 2,
+    "display_name": "Medicine 2",
+    "names": [
+      "GenericName2",
+      "BrandName2"
+    ],
+    "imprints": [
+      "M2A",
+      "M2B"
+    ],
+    "uses": "This medicine 2 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 2 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 3,
+    "display_name": "Medicine 3",
+    "names": [
+      "GenericName3",
+      "BrandName3"
+    ],
+    "imprints": [
+      "M3A",
+      "M3B"
+    ],
+    "uses": "This medicine 3 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 3 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 4,
+    "display_name": "Medicine 4",
+    "names": [
+      "GenericName4",
+      "BrandName4"
+    ],
+    "imprints": [
+      "M4A",
+      "M4B"
+    ],
+    "uses": "This medicine 4 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 4 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 5,
+    "display_name": "Medicine 5",
+    "names": [
+      "GenericName5",
+      "BrandName5"
+    ],
+    "imprints": [
+      "M5A",
+      "M5B"
+    ],
+    "uses": "This medicine 5 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 5 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 6,
+    "display_name": "Medicine 6",
+    "names": [
+      "GenericName6",
+      "BrandName6"
+    ],
+    "imprints": [
+      "M6A",
+      "M6B"
+    ],
+    "uses": "This medicine 6 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 6 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 7,
+    "display_name": "Medicine 7",
+    "names": [
+      "GenericName7",
+      "BrandName7"
+    ],
+    "imprints": [
+      "M7A",
+      "M7B"
+    ],
+    "uses": "This medicine 7 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 7 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 8,
+    "display_name": "Medicine 8",
+    "names": [
+      "GenericName8",
+      "BrandName8"
+    ],
+    "imprints": [
+      "M8A",
+      "M8B"
+    ],
+    "uses": "This medicine 8 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 8 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 9,
+    "display_name": "Medicine 9",
+    "names": [
+      "GenericName9",
+      "BrandName9"
+    ],
+    "imprints": [
+      "M9A",
+      "M9B"
+    ],
+    "uses": "This medicine 9 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 9 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 10,
+    "display_name": "Medicine 10",
+    "names": [
+      "GenericName10",
+      "BrandName10"
+    ],
+    "imprints": [
+      "M10A",
+      "M10B"
+    ],
+    "uses": "This medicine 10 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 10 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 11,
+    "display_name": "Medicine 11",
+    "names": [
+      "GenericName11",
+      "BrandName11"
+    ],
+    "imprints": [
+      "M11A",
+      "M11B"
+    ],
+    "uses": "This medicine 11 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 11 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 12,
+    "display_name": "Medicine 12",
+    "names": [
+      "GenericName12",
+      "BrandName12"
+    ],
+    "imprints": [
+      "M12A",
+      "M12B"
+    ],
+    "uses": "This medicine 12 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 12 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 13,
+    "display_name": "Medicine 13",
+    "names": [
+      "GenericName13",
+      "BrandName13"
+    ],
+    "imprints": [
+      "M13A",
+      "M13B"
+    ],
+    "uses": "This medicine 13 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 13 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 14,
+    "display_name": "Medicine 14",
+    "names": [
+      "GenericName14",
+      "BrandName14"
+    ],
+    "imprints": [
+      "M14A",
+      "M14B"
+    ],
+    "uses": "This medicine 14 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 14 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 15,
+    "display_name": "Medicine 15",
+    "names": [
+      "GenericName15",
+      "BrandName15"
+    ],
+    "imprints": [
+      "M15A",
+      "M15B"
+    ],
+    "uses": "This medicine 15 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 15 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 16,
+    "display_name": "Medicine 16",
+    "names": [
+      "GenericName16",
+      "BrandName16"
+    ],
+    "imprints": [
+      "M16A",
+      "M16B"
+    ],
+    "uses": "This medicine 16 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 16 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 17,
+    "display_name": "Medicine 17",
+    "names": [
+      "GenericName17",
+      "BrandName17"
+    ],
+    "imprints": [
+      "M17A",
+      "M17B"
+    ],
+    "uses": "This medicine 17 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 17 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 18,
+    "display_name": "Medicine 18",
+    "names": [
+      "GenericName18",
+      "BrandName18"
+    ],
+    "imprints": [
+      "M18A",
+      "M18B"
+    ],
+    "uses": "This medicine 18 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 18 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 19,
+    "display_name": "Medicine 19",
+    "names": [
+      "GenericName19",
+      "BrandName19"
+    ],
+    "imprints": [
+      "M19A",
+      "M19B"
+    ],
+    "uses": "This medicine 19 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 19 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 20,
+    "display_name": "Medicine 20",
+    "names": [
+      "GenericName20",
+      "BrandName20"
+    ],
+    "imprints": [
+      "M20A",
+      "M20B"
+    ],
+    "uses": "This medicine 20 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 20 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 21,
+    "display_name": "Medicine 21",
+    "names": [
+      "GenericName21",
+      "BrandName21"
+    ],
+    "imprints": [
+      "M21A",
+      "M21B"
+    ],
+    "uses": "This medicine 21 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 21 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 22,
+    "display_name": "Medicine 22",
+    "names": [
+      "GenericName22",
+      "BrandName22"
+    ],
+    "imprints": [
+      "M22A",
+      "M22B"
+    ],
+    "uses": "This medicine 22 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 22 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 23,
+    "display_name": "Medicine 23",
+    "names": [
+      "GenericName23",
+      "BrandName23"
+    ],
+    "imprints": [
+      "M23A",
+      "M23B"
+    ],
+    "uses": "This medicine 23 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 23 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 24,
+    "display_name": "Medicine 24",
+    "names": [
+      "GenericName24",
+      "BrandName24"
+    ],
+    "imprints": [
+      "M24A",
+      "M24B"
+    ],
+    "uses": "This medicine 24 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 24 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 25,
+    "display_name": "Medicine 25",
+    "names": [
+      "GenericName25",
+      "BrandName25"
+    ],
+    "imprints": [
+      "M25A",
+      "M25B"
+    ],
+    "uses": "This medicine 25 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 25 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 26,
+    "display_name": "Medicine 26",
+    "names": [
+      "GenericName26",
+      "BrandName26"
+    ],
+    "imprints": [
+      "M26A",
+      "M26B"
+    ],
+    "uses": "This medicine 26 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 26 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 27,
+    "display_name": "Medicine 27",
+    "names": [
+      "GenericName27",
+      "BrandName27"
+    ],
+    "imprints": [
+      "M27A",
+      "M27B"
+    ],
+    "uses": "This medicine 27 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 27 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 28,
+    "display_name": "Medicine 28",
+    "names": [
+      "GenericName28",
+      "BrandName28"
+    ],
+    "imprints": [
+      "M28A",
+      "M28B"
+    ],
+    "uses": "This medicine 28 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 28 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 29,
+    "display_name": "Medicine 29",
+    "names": [
+      "GenericName29",
+      "BrandName29"
+    ],
+    "imprints": [
+      "M29A",
+      "M29B"
+    ],
+    "uses": "This medicine 29 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 29 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 30,
+    "display_name": "Medicine 30",
+    "names": [
+      "GenericName30",
+      "BrandName30"
+    ],
+    "imprints": [
+      "M30A",
+      "M30B"
+    ],
+    "uses": "This medicine 30 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 30 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 31,
+    "display_name": "Medicine 31",
+    "names": [
+      "GenericName31",
+      "BrandName31"
+    ],
+    "imprints": [
+      "M31A",
+      "M31B"
+    ],
+    "uses": "This medicine 31 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 31 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 32,
+    "display_name": "Medicine 32",
+    "names": [
+      "GenericName32",
+      "BrandName32"
+    ],
+    "imprints": [
+      "M32A",
+      "M32B"
+    ],
+    "uses": "This medicine 32 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 32 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 33,
+    "display_name": "Medicine 33",
+    "names": [
+      "GenericName33",
+      "BrandName33"
+    ],
+    "imprints": [
+      "M33A",
+      "M33B"
+    ],
+    "uses": "This medicine 33 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 33 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 34,
+    "display_name": "Medicine 34",
+    "names": [
+      "GenericName34",
+      "BrandName34"
+    ],
+    "imprints": [
+      "M34A",
+      "M34B"
+    ],
+    "uses": "This medicine 34 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 34 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 35,
+    "display_name": "Medicine 35",
+    "names": [
+      "GenericName35",
+      "BrandName35"
+    ],
+    "imprints": [
+      "M35A",
+      "M35B"
+    ],
+    "uses": "This medicine 35 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 35 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 36,
+    "display_name": "Medicine 36",
+    "names": [
+      "GenericName36",
+      "BrandName36"
+    ],
+    "imprints": [
+      "M36A",
+      "M36B"
+    ],
+    "uses": "This medicine 36 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 36 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 37,
+    "display_name": "Medicine 37",
+    "names": [
+      "GenericName37",
+      "BrandName37"
+    ],
+    "imprints": [
+      "M37A",
+      "M37B"
+    ],
+    "uses": "This medicine 37 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 37 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 38,
+    "display_name": "Medicine 38",
+    "names": [
+      "GenericName38",
+      "BrandName38"
+    ],
+    "imprints": [
+      "M38A",
+      "M38B"
+    ],
+    "uses": "This medicine 38 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 38 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 39,
+    "display_name": "Medicine 39",
+    "names": [
+      "GenericName39",
+      "BrandName39"
+    ],
+    "imprints": [
+      "M39A",
+      "M39B"
+    ],
+    "uses": "This medicine 39 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 39 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 40,
+    "display_name": "Medicine 40",
+    "names": [
+      "GenericName40",
+      "BrandName40"
+    ],
+    "imprints": [
+      "M40A",
+      "M40B"
+    ],
+    "uses": "This medicine 40 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 40 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 41,
+    "display_name": "Medicine 41",
+    "names": [
+      "GenericName41",
+      "BrandName41"
+    ],
+    "imprints": [
+      "M41A",
+      "M41B"
+    ],
+    "uses": "This medicine 41 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 41 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 42,
+    "display_name": "Medicine 42",
+    "names": [
+      "GenericName42",
+      "BrandName42"
+    ],
+    "imprints": [
+      "M42A",
+      "M42B"
+    ],
+    "uses": "This medicine 42 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 42 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 43,
+    "display_name": "Medicine 43",
+    "names": [
+      "GenericName43",
+      "BrandName43"
+    ],
+    "imprints": [
+      "M43A",
+      "M43B"
+    ],
+    "uses": "This medicine 43 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 43 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 44,
+    "display_name": "Medicine 44",
+    "names": [
+      "GenericName44",
+      "BrandName44"
+    ],
+    "imprints": [
+      "M44A",
+      "M44B"
+    ],
+    "uses": "This medicine 44 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 44 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 45,
+    "display_name": "Medicine 45",
+    "names": [
+      "GenericName45",
+      "BrandName45"
+    ],
+    "imprints": [
+      "M45A",
+      "M45B"
+    ],
+    "uses": "This medicine 45 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 45 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 46,
+    "display_name": "Medicine 46",
+    "names": [
+      "GenericName46",
+      "BrandName46"
+    ],
+    "imprints": [
+      "M46A",
+      "M46B"
+    ],
+    "uses": "This medicine 46 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 46 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 47,
+    "display_name": "Medicine 47",
+    "names": [
+      "GenericName47",
+      "BrandName47"
+    ],
+    "imprints": [
+      "M47A",
+      "M47B"
+    ],
+    "uses": "This medicine 47 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 47 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 48,
+    "display_name": "Medicine 48",
+    "names": [
+      "GenericName48",
+      "BrandName48"
+    ],
+    "imprints": [
+      "M48A",
+      "M48B"
+    ],
+    "uses": "This medicine 48 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 48 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 49,
+    "display_name": "Medicine 49",
+    "names": [
+      "GenericName49",
+      "BrandName49"
+    ],
+    "imprints": [
+      "M49A",
+      "M49B"
+    ],
+    "uses": "This medicine 49 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 49 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 50,
+    "display_name": "Medicine 50",
+    "names": [
+      "GenericName50",
+      "BrandName50"
+    ],
+    "imprints": [
+      "M50A",
+      "M50B"
+    ],
+    "uses": "This medicine 50 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 50 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 51,
+    "display_name": "Medicine 51",
+    "names": [
+      "GenericName51",
+      "BrandName51"
+    ],
+    "imprints": [
+      "M51A",
+      "M51B"
+    ],
+    "uses": "This medicine 51 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 51 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 52,
+    "display_name": "Medicine 52",
+    "names": [
+      "GenericName52",
+      "BrandName52"
+    ],
+    "imprints": [
+      "M52A",
+      "M52B"
+    ],
+    "uses": "This medicine 52 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 52 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 53,
+    "display_name": "Medicine 53",
+    "names": [
+      "GenericName53",
+      "BrandName53"
+    ],
+    "imprints": [
+      "M53A",
+      "M53B"
+    ],
+    "uses": "This medicine 53 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 53 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 54,
+    "display_name": "Medicine 54",
+    "names": [
+      "GenericName54",
+      "BrandName54"
+    ],
+    "imprints": [
+      "M54A",
+      "M54B"
+    ],
+    "uses": "This medicine 54 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 54 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 55,
+    "display_name": "Medicine 55",
+    "names": [
+      "GenericName55",
+      "BrandName55"
+    ],
+    "imprints": [
+      "M55A",
+      "M55B"
+    ],
+    "uses": "This medicine 55 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 55 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 56,
+    "display_name": "Medicine 56",
+    "names": [
+      "GenericName56",
+      "BrandName56"
+    ],
+    "imprints": [
+      "M56A",
+      "M56B"
+    ],
+    "uses": "This medicine 56 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 56 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 57,
+    "display_name": "Medicine 57",
+    "names": [
+      "GenericName57",
+      "BrandName57"
+    ],
+    "imprints": [
+      "M57A",
+      "M57B"
+    ],
+    "uses": "This medicine 57 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 57 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 58,
+    "display_name": "Medicine 58",
+    "names": [
+      "GenericName58",
+      "BrandName58"
+    ],
+    "imprints": [
+      "M58A",
+      "M58B"
+    ],
+    "uses": "This medicine 58 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 58 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 59,
+    "display_name": "Medicine 59",
+    "names": [
+      "GenericName59",
+      "BrandName59"
+    ],
+    "imprints": [
+      "M59A",
+      "M59B"
+    ],
+    "uses": "This medicine 59 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 59 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 60,
+    "display_name": "Medicine 60",
+    "names": [
+      "GenericName60",
+      "BrandName60"
+    ],
+    "imprints": [
+      "M60A",
+      "M60B"
+    ],
+    "uses": "This medicine 60 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 60 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 61,
+    "display_name": "Medicine 61",
+    "names": [
+      "GenericName61",
+      "BrandName61"
+    ],
+    "imprints": [
+      "M61A",
+      "M61B"
+    ],
+    "uses": "This medicine 61 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 61 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 62,
+    "display_name": "Medicine 62",
+    "names": [
+      "GenericName62",
+      "BrandName62"
+    ],
+    "imprints": [
+      "M62A",
+      "M62B"
+    ],
+    "uses": "This medicine 62 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 62 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 63,
+    "display_name": "Medicine 63",
+    "names": [
+      "GenericName63",
+      "BrandName63"
+    ],
+    "imprints": [
+      "M63A",
+      "M63B"
+    ],
+    "uses": "This medicine 63 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 63 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 64,
+    "display_name": "Medicine 64",
+    "names": [
+      "GenericName64",
+      "BrandName64"
+    ],
+    "imprints": [
+      "M64A",
+      "M64B"
+    ],
+    "uses": "This medicine 64 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 64 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 65,
+    "display_name": "Medicine 65",
+    "names": [
+      "GenericName65",
+      "BrandName65"
+    ],
+    "imprints": [
+      "M65A",
+      "M65B"
+    ],
+    "uses": "This medicine 65 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 65 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 66,
+    "display_name": "Medicine 66",
+    "names": [
+      "GenericName66",
+      "BrandName66"
+    ],
+    "imprints": [
+      "M66A",
+      "M66B"
+    ],
+    "uses": "This medicine 66 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 66 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 67,
+    "display_name": "Medicine 67",
+    "names": [
+      "GenericName67",
+      "BrandName67"
+    ],
+    "imprints": [
+      "M67A",
+      "M67B"
+    ],
+    "uses": "This medicine 67 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 67 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 68,
+    "display_name": "Medicine 68",
+    "names": [
+      "GenericName68",
+      "BrandName68"
+    ],
+    "imprints": [
+      "M68A",
+      "M68B"
+    ],
+    "uses": "This medicine 68 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 68 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 69,
+    "display_name": "Medicine 69",
+    "names": [
+      "GenericName69",
+      "BrandName69"
+    ],
+    "imprints": [
+      "M69A",
+      "M69B"
+    ],
+    "uses": "This medicine 69 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 69 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 70,
+    "display_name": "Medicine 70",
+    "names": [
+      "GenericName70",
+      "BrandName70"
+    ],
+    "imprints": [
+      "M70A",
+      "M70B"
+    ],
+    "uses": "This medicine 70 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 70 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 71,
+    "display_name": "Medicine 71",
+    "names": [
+      "GenericName71",
+      "BrandName71"
+    ],
+    "imprints": [
+      "M71A",
+      "M71B"
+    ],
+    "uses": "This medicine 71 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 71 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 72,
+    "display_name": "Medicine 72",
+    "names": [
+      "GenericName72",
+      "BrandName72"
+    ],
+    "imprints": [
+      "M72A",
+      "M72B"
+    ],
+    "uses": "This medicine 72 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 72 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 73,
+    "display_name": "Medicine 73",
+    "names": [
+      "GenericName73",
+      "BrandName73"
+    ],
+    "imprints": [
+      "M73A",
+      "M73B"
+    ],
+    "uses": "This medicine 73 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 73 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 74,
+    "display_name": "Medicine 74",
+    "names": [
+      "GenericName74",
+      "BrandName74"
+    ],
+    "imprints": [
+      "M74A",
+      "M74B"
+    ],
+    "uses": "This medicine 74 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 74 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 75,
+    "display_name": "Medicine 75",
+    "names": [
+      "GenericName75",
+      "BrandName75"
+    ],
+    "imprints": [
+      "M75A",
+      "M75B"
+    ],
+    "uses": "This medicine 75 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 75 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 76,
+    "display_name": "Medicine 76",
+    "names": [
+      "GenericName76",
+      "BrandName76"
+    ],
+    "imprints": [
+      "M76A",
+      "M76B"
+    ],
+    "uses": "This medicine 76 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 76 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 77,
+    "display_name": "Medicine 77",
+    "names": [
+      "GenericName77",
+      "BrandName77"
+    ],
+    "imprints": [
+      "M77A",
+      "M77B"
+    ],
+    "uses": "This medicine 77 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 77 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 78,
+    "display_name": "Medicine 78",
+    "names": [
+      "GenericName78",
+      "BrandName78"
+    ],
+    "imprints": [
+      "M78A",
+      "M78B"
+    ],
+    "uses": "This medicine 78 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 78 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 79,
+    "display_name": "Medicine 79",
+    "names": [
+      "GenericName79",
+      "BrandName79"
+    ],
+    "imprints": [
+      "M79A",
+      "M79B"
+    ],
+    "uses": "This medicine 79 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 79 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 80,
+    "display_name": "Medicine 80",
+    "names": [
+      "GenericName80",
+      "BrandName80"
+    ],
+    "imprints": [
+      "M80A",
+      "M80B"
+    ],
+    "uses": "This medicine 80 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 80 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 81,
+    "display_name": "Medicine 81",
+    "names": [
+      "GenericName81",
+      "BrandName81"
+    ],
+    "imprints": [
+      "M81A",
+      "M81B"
+    ],
+    "uses": "This medicine 81 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 81 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 82,
+    "display_name": "Medicine 82",
+    "names": [
+      "GenericName82",
+      "BrandName82"
+    ],
+    "imprints": [
+      "M82A",
+      "M82B"
+    ],
+    "uses": "This medicine 82 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 82 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 83,
+    "display_name": "Medicine 83",
+    "names": [
+      "GenericName83",
+      "BrandName83"
+    ],
+    "imprints": [
+      "M83A",
+      "M83B"
+    ],
+    "uses": "This medicine 83 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 83 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 84,
+    "display_name": "Medicine 84",
+    "names": [
+      "GenericName84",
+      "BrandName84"
+    ],
+    "imprints": [
+      "M84A",
+      "M84B"
+    ],
+    "uses": "This medicine 84 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 84 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 85,
+    "display_name": "Medicine 85",
+    "names": [
+      "GenericName85",
+      "BrandName85"
+    ],
+    "imprints": [
+      "M85A",
+      "M85B"
+    ],
+    "uses": "This medicine 85 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 85 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 86,
+    "display_name": "Medicine 86",
+    "names": [
+      "GenericName86",
+      "BrandName86"
+    ],
+    "imprints": [
+      "M86A",
+      "M86B"
+    ],
+    "uses": "This medicine 86 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 86 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 87,
+    "display_name": "Medicine 87",
+    "names": [
+      "GenericName87",
+      "BrandName87"
+    ],
+    "imprints": [
+      "M87A",
+      "M87B"
+    ],
+    "uses": "This medicine 87 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 87 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 88,
+    "display_name": "Medicine 88",
+    "names": [
+      "GenericName88",
+      "BrandName88"
+    ],
+    "imprints": [
+      "M88A",
+      "M88B"
+    ],
+    "uses": "This medicine 88 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 88 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 89,
+    "display_name": "Medicine 89",
+    "names": [
+      "GenericName89",
+      "BrandName89"
+    ],
+    "imprints": [
+      "M89A",
+      "M89B"
+    ],
+    "uses": "This medicine 89 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 89 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 90,
+    "display_name": "Medicine 90",
+    "names": [
+      "GenericName90",
+      "BrandName90"
+    ],
+    "imprints": [
+      "M90A",
+      "M90B"
+    ],
+    "uses": "This medicine 90 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 90 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 91,
+    "display_name": "Medicine 91",
+    "names": [
+      "GenericName91",
+      "BrandName91"
+    ],
+    "imprints": [
+      "M91A",
+      "M91B"
+    ],
+    "uses": "This medicine 91 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 91 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 92,
+    "display_name": "Medicine 92",
+    "names": [
+      "GenericName92",
+      "BrandName92"
+    ],
+    "imprints": [
+      "M92A",
+      "M92B"
+    ],
+    "uses": "This medicine 92 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 92 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 93,
+    "display_name": "Medicine 93",
+    "names": [
+      "GenericName93",
+      "BrandName93"
+    ],
+    "imprints": [
+      "M93A",
+      "M93B"
+    ],
+    "uses": "This medicine 93 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 93 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 94,
+    "display_name": "Medicine 94",
+    "names": [
+      "GenericName94",
+      "BrandName94"
+    ],
+    "imprints": [
+      "M94A",
+      "M94B"
+    ],
+    "uses": "This medicine 94 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 94 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 95,
+    "display_name": "Medicine 95",
+    "names": [
+      "GenericName95",
+      "BrandName95"
+    ],
+    "imprints": [
+      "M95A",
+      "M95B"
+    ],
+    "uses": "This medicine 95 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 95 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 96,
+    "display_name": "Medicine 96",
+    "names": [
+      "GenericName96",
+      "BrandName96"
+    ],
+    "imprints": [
+      "M96A",
+      "M96B"
+    ],
+    "uses": "This medicine 96 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 96 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 97,
+    "display_name": "Medicine 97",
+    "names": [
+      "GenericName97",
+      "BrandName97"
+    ],
+    "imprints": [
+      "M97A",
+      "M97B"
+    ],
+    "uses": "This medicine 97 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 97 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 98,
+    "display_name": "Medicine 98",
+    "names": [
+      "GenericName98",
+      "BrandName98"
+    ],
+    "imprints": [
+      "M98A",
+      "M98B"
+    ],
+    "uses": "This medicine 98 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 98 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 99,
+    "display_name": "Medicine 99",
+    "names": [
+      "GenericName99",
+      "BrandName99"
+    ],
+    "imprints": [
+      "M99A",
+      "M99B"
+    ],
+    "uses": "This medicine 99 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 99 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 100,
+    "display_name": "Medicine 100",
+    "names": [
+      "GenericName100",
+      "BrandName100"
+    ],
+    "imprints": [
+      "M100A",
+      "M100B"
+    ],
+    "uses": "This medicine 100 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 100 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 101,
+    "display_name": "Medicine 101",
+    "names": [
+      "GenericName101",
+      "BrandName101"
+    ],
+    "imprints": [
+      "M101A",
+      "M101B"
+    ],
+    "uses": "This medicine 101 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 101 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 102,
+    "display_name": "Medicine 102",
+    "names": [
+      "GenericName102",
+      "BrandName102"
+    ],
+    "imprints": [
+      "M102A",
+      "M102B"
+    ],
+    "uses": "This medicine 102 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 102 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 103,
+    "display_name": "Medicine 103",
+    "names": [
+      "GenericName103",
+      "BrandName103"
+    ],
+    "imprints": [
+      "M103A",
+      "M103B"
+    ],
+    "uses": "This medicine 103 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 103 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 104,
+    "display_name": "Medicine 104",
+    "names": [
+      "GenericName104",
+      "BrandName104"
+    ],
+    "imprints": [
+      "M104A",
+      "M104B"
+    ],
+    "uses": "This medicine 104 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 104 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 105,
+    "display_name": "Medicine 105",
+    "names": [
+      "GenericName105",
+      "BrandName105"
+    ],
+    "imprints": [
+      "M105A",
+      "M105B"
+    ],
+    "uses": "This medicine 105 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 105 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 106,
+    "display_name": "Medicine 106",
+    "names": [
+      "GenericName106",
+      "BrandName106"
+    ],
+    "imprints": [
+      "M106A",
+      "M106B"
+    ],
+    "uses": "This medicine 106 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 106 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 107,
+    "display_name": "Medicine 107",
+    "names": [
+      "GenericName107",
+      "BrandName107"
+    ],
+    "imprints": [
+      "M107A",
+      "M107B"
+    ],
+    "uses": "This medicine 107 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 107 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 108,
+    "display_name": "Medicine 108",
+    "names": [
+      "GenericName108",
+      "BrandName108"
+    ],
+    "imprints": [
+      "M108A",
+      "M108B"
+    ],
+    "uses": "This medicine 108 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 108 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 109,
+    "display_name": "Medicine 109",
+    "names": [
+      "GenericName109",
+      "BrandName109"
+    ],
+    "imprints": [
+      "M109A",
+      "M109B"
+    ],
+    "uses": "This medicine 109 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 109 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 110,
+    "display_name": "Medicine 110",
+    "names": [
+      "GenericName110",
+      "BrandName110"
+    ],
+    "imprints": [
+      "M110A",
+      "M110B"
+    ],
+    "uses": "This medicine 110 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 110 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 111,
+    "display_name": "Medicine 111",
+    "names": [
+      "GenericName111",
+      "BrandName111"
+    ],
+    "imprints": [
+      "M111A",
+      "M111B"
+    ],
+    "uses": "This medicine 111 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 111 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 112,
+    "display_name": "Medicine 112",
+    "names": [
+      "GenericName112",
+      "BrandName112"
+    ],
+    "imprints": [
+      "M112A",
+      "M112B"
+    ],
+    "uses": "This medicine 112 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 112 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 113,
+    "display_name": "Medicine 113",
+    "names": [
+      "GenericName113",
+      "BrandName113"
+    ],
+    "imprints": [
+      "M113A",
+      "M113B"
+    ],
+    "uses": "This medicine 113 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 113 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 114,
+    "display_name": "Medicine 114",
+    "names": [
+      "GenericName114",
+      "BrandName114"
+    ],
+    "imprints": [
+      "M114A",
+      "M114B"
+    ],
+    "uses": "This medicine 114 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 114 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 115,
+    "display_name": "Medicine 115",
+    "names": [
+      "GenericName115",
+      "BrandName115"
+    ],
+    "imprints": [
+      "M115A",
+      "M115B"
+    ],
+    "uses": "This medicine 115 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 115 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 116,
+    "display_name": "Medicine 116",
+    "names": [
+      "GenericName116",
+      "BrandName116"
+    ],
+    "imprints": [
+      "M116A",
+      "M116B"
+    ],
+    "uses": "This medicine 116 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 116 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 117,
+    "display_name": "Medicine 117",
+    "names": [
+      "GenericName117",
+      "BrandName117"
+    ],
+    "imprints": [
+      "M117A",
+      "M117B"
+    ],
+    "uses": "This medicine 117 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 117 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 118,
+    "display_name": "Medicine 118",
+    "names": [
+      "GenericName118",
+      "BrandName118"
+    ],
+    "imprints": [
+      "M118A",
+      "M118B"
+    ],
+    "uses": "This medicine 118 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 118 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 119,
+    "display_name": "Medicine 119",
+    "names": [
+      "GenericName119",
+      "BrandName119"
+    ],
+    "imprints": [
+      "M119A",
+      "M119B"
+    ],
+    "uses": "This medicine 119 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 119 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 120,
+    "display_name": "Medicine 120",
+    "names": [
+      "GenericName120",
+      "BrandName120"
+    ],
+    "imprints": [
+      "M120A",
+      "M120B"
+    ],
+    "uses": "This medicine 120 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 120 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 121,
+    "display_name": "Medicine 121",
+    "names": [
+      "GenericName121",
+      "BrandName121"
+    ],
+    "imprints": [
+      "M121A",
+      "M121B"
+    ],
+    "uses": "This medicine 121 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 121 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 122,
+    "display_name": "Medicine 122",
+    "names": [
+      "GenericName122",
+      "BrandName122"
+    ],
+    "imprints": [
+      "M122A",
+      "M122B"
+    ],
+    "uses": "This medicine 122 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 122 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 123,
+    "display_name": "Medicine 123",
+    "names": [
+      "GenericName123",
+      "BrandName123"
+    ],
+    "imprints": [
+      "M123A",
+      "M123B"
+    ],
+    "uses": "This medicine 123 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 123 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 124,
+    "display_name": "Medicine 124",
+    "names": [
+      "GenericName124",
+      "BrandName124"
+    ],
+    "imprints": [
+      "M124A",
+      "M124B"
+    ],
+    "uses": "This medicine 124 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 124 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 125,
+    "display_name": "Medicine 125",
+    "names": [
+      "GenericName125",
+      "BrandName125"
+    ],
+    "imprints": [
+      "M125A",
+      "M125B"
+    ],
+    "uses": "This medicine 125 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 125 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 126,
+    "display_name": "Medicine 126",
+    "names": [
+      "GenericName126",
+      "BrandName126"
+    ],
+    "imprints": [
+      "M126A",
+      "M126B"
+    ],
+    "uses": "This medicine 126 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 126 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 127,
+    "display_name": "Medicine 127",
+    "names": [
+      "GenericName127",
+      "BrandName127"
+    ],
+    "imprints": [
+      "M127A",
+      "M127B"
+    ],
+    "uses": "This medicine 127 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 127 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 128,
+    "display_name": "Medicine 128",
+    "names": [
+      "GenericName128",
+      "BrandName128"
+    ],
+    "imprints": [
+      "M128A",
+      "M128B"
+    ],
+    "uses": "This medicine 128 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 128 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 129,
+    "display_name": "Medicine 129",
+    "names": [
+      "GenericName129",
+      "BrandName129"
+    ],
+    "imprints": [
+      "M129A",
+      "M129B"
+    ],
+    "uses": "This medicine 129 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 129 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 130,
+    "display_name": "Medicine 130",
+    "names": [
+      "GenericName130",
+      "BrandName130"
+    ],
+    "imprints": [
+      "M130A",
+      "M130B"
+    ],
+    "uses": "This medicine 130 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 130 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 131,
+    "display_name": "Medicine 131",
+    "names": [
+      "GenericName131",
+      "BrandName131"
+    ],
+    "imprints": [
+      "M131A",
+      "M131B"
+    ],
+    "uses": "This medicine 131 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 131 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 132,
+    "display_name": "Medicine 132",
+    "names": [
+      "GenericName132",
+      "BrandName132"
+    ],
+    "imprints": [
+      "M132A",
+      "M132B"
+    ],
+    "uses": "This medicine 132 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 132 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 133,
+    "display_name": "Medicine 133",
+    "names": [
+      "GenericName133",
+      "BrandName133"
+    ],
+    "imprints": [
+      "M133A",
+      "M133B"
+    ],
+    "uses": "This medicine 133 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 133 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 134,
+    "display_name": "Medicine 134",
+    "names": [
+      "GenericName134",
+      "BrandName134"
+    ],
+    "imprints": [
+      "M134A",
+      "M134B"
+    ],
+    "uses": "This medicine 134 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 134 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 135,
+    "display_name": "Medicine 135",
+    "names": [
+      "GenericName135",
+      "BrandName135"
+    ],
+    "imprints": [
+      "M135A",
+      "M135B"
+    ],
+    "uses": "This medicine 135 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 135 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 136,
+    "display_name": "Medicine 136",
+    "names": [
+      "GenericName136",
+      "BrandName136"
+    ],
+    "imprints": [
+      "M136A",
+      "M136B"
+    ],
+    "uses": "This medicine 136 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 136 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 137,
+    "display_name": "Medicine 137",
+    "names": [
+      "GenericName137",
+      "BrandName137"
+    ],
+    "imprints": [
+      "M137A",
+      "M137B"
+    ],
+    "uses": "This medicine 137 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 137 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 138,
+    "display_name": "Medicine 138",
+    "names": [
+      "GenericName138",
+      "BrandName138"
+    ],
+    "imprints": [
+      "M138A",
+      "M138B"
+    ],
+    "uses": "This medicine 138 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 138 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 139,
+    "display_name": "Medicine 139",
+    "names": [
+      "GenericName139",
+      "BrandName139"
+    ],
+    "imprints": [
+      "M139A",
+      "M139B"
+    ],
+    "uses": "This medicine 139 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 139 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 140,
+    "display_name": "Medicine 140",
+    "names": [
+      "GenericName140",
+      "BrandName140"
+    ],
+    "imprints": [
+      "M140A",
+      "M140B"
+    ],
+    "uses": "This medicine 140 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 140 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 141,
+    "display_name": "Medicine 141",
+    "names": [
+      "GenericName141",
+      "BrandName141"
+    ],
+    "imprints": [
+      "M141A",
+      "M141B"
+    ],
+    "uses": "This medicine 141 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 141 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 142,
+    "display_name": "Medicine 142",
+    "names": [
+      "GenericName142",
+      "BrandName142"
+    ],
+    "imprints": [
+      "M142A",
+      "M142B"
+    ],
+    "uses": "This medicine 142 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 142 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 143,
+    "display_name": "Medicine 143",
+    "names": [
+      "GenericName143",
+      "BrandName143"
+    ],
+    "imprints": [
+      "M143A",
+      "M143B"
+    ],
+    "uses": "This medicine 143 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 143 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 144,
+    "display_name": "Medicine 144",
+    "names": [
+      "GenericName144",
+      "BrandName144"
+    ],
+    "imprints": [
+      "M144A",
+      "M144B"
+    ],
+    "uses": "This medicine 144 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 144 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 145,
+    "display_name": "Medicine 145",
+    "names": [
+      "GenericName145",
+      "BrandName145"
+    ],
+    "imprints": [
+      "M145A",
+      "M145B"
+    ],
+    "uses": "This medicine 145 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 145 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 146,
+    "display_name": "Medicine 146",
+    "names": [
+      "GenericName146",
+      "BrandName146"
+    ],
+    "imprints": [
+      "M146A",
+      "M146B"
+    ],
+    "uses": "This medicine 146 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 146 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 147,
+    "display_name": "Medicine 147",
+    "names": [
+      "GenericName147",
+      "BrandName147"
+    ],
+    "imprints": [
+      "M147A",
+      "M147B"
+    ],
+    "uses": "This medicine 147 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 147 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 148,
+    "display_name": "Medicine 148",
+    "names": [
+      "GenericName148",
+      "BrandName148"
+    ],
+    "imprints": [
+      "M148A",
+      "M148B"
+    ],
+    "uses": "This medicine 148 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 148 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 149,
+    "display_name": "Medicine 149",
+    "names": [
+      "GenericName149",
+      "BrandName149"
+    ],
+    "imprints": [
+      "M149A",
+      "M149B"
+    ],
+    "uses": "This medicine 149 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 149 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 150,
+    "display_name": "Medicine 150",
+    "names": [
+      "GenericName150",
+      "BrandName150"
+    ],
+    "imprints": [
+      "M150A",
+      "M150B"
+    ],
+    "uses": "This medicine 150 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 150 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 151,
+    "display_name": "Medicine 151",
+    "names": [
+      "GenericName151",
+      "BrandName151"
+    ],
+    "imprints": [
+      "M151A",
+      "M151B"
+    ],
+    "uses": "This medicine 151 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 151 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 152,
+    "display_name": "Medicine 152",
+    "names": [
+      "GenericName152",
+      "BrandName152"
+    ],
+    "imprints": [
+      "M152A",
+      "M152B"
+    ],
+    "uses": "This medicine 152 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 152 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 153,
+    "display_name": "Medicine 153",
+    "names": [
+      "GenericName153",
+      "BrandName153"
+    ],
+    "imprints": [
+      "M153A",
+      "M153B"
+    ],
+    "uses": "This medicine 153 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 153 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 154,
+    "display_name": "Medicine 154",
+    "names": [
+      "GenericName154",
+      "BrandName154"
+    ],
+    "imprints": [
+      "M154A",
+      "M154B"
+    ],
+    "uses": "This medicine 154 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 154 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 155,
+    "display_name": "Medicine 155",
+    "names": [
+      "GenericName155",
+      "BrandName155"
+    ],
+    "imprints": [
+      "M155A",
+      "M155B"
+    ],
+    "uses": "This medicine 155 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 155 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 156,
+    "display_name": "Medicine 156",
+    "names": [
+      "GenericName156",
+      "BrandName156"
+    ],
+    "imprints": [
+      "M156A",
+      "M156B"
+    ],
+    "uses": "This medicine 156 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 156 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 157,
+    "display_name": "Medicine 157",
+    "names": [
+      "GenericName157",
+      "BrandName157"
+    ],
+    "imprints": [
+      "M157A",
+      "M157B"
+    ],
+    "uses": "This medicine 157 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 157 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 158,
+    "display_name": "Medicine 158",
+    "names": [
+      "GenericName158",
+      "BrandName158"
+    ],
+    "imprints": [
+      "M158A",
+      "M158B"
+    ],
+    "uses": "This medicine 158 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 158 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 159,
+    "display_name": "Medicine 159",
+    "names": [
+      "GenericName159",
+      "BrandName159"
+    ],
+    "imprints": [
+      "M159A",
+      "M159B"
+    ],
+    "uses": "This medicine 159 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 159 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 160,
+    "display_name": "Medicine 160",
+    "names": [
+      "GenericName160",
+      "BrandName160"
+    ],
+    "imprints": [
+      "M160A",
+      "M160B"
+    ],
+    "uses": "This medicine 160 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 160 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 161,
+    "display_name": "Medicine 161",
+    "names": [
+      "GenericName161",
+      "BrandName161"
+    ],
+    "imprints": [
+      "M161A",
+      "M161B"
+    ],
+    "uses": "This medicine 161 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 161 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 162,
+    "display_name": "Medicine 162",
+    "names": [
+      "GenericName162",
+      "BrandName162"
+    ],
+    "imprints": [
+      "M162A",
+      "M162B"
+    ],
+    "uses": "This medicine 162 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 162 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 163,
+    "display_name": "Medicine 163",
+    "names": [
+      "GenericName163",
+      "BrandName163"
+    ],
+    "imprints": [
+      "M163A",
+      "M163B"
+    ],
+    "uses": "This medicine 163 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 163 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 164,
+    "display_name": "Medicine 164",
+    "names": [
+      "GenericName164",
+      "BrandName164"
+    ],
+    "imprints": [
+      "M164A",
+      "M164B"
+    ],
+    "uses": "This medicine 164 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 164 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 165,
+    "display_name": "Medicine 165",
+    "names": [
+      "GenericName165",
+      "BrandName165"
+    ],
+    "imprints": [
+      "M165A",
+      "M165B"
+    ],
+    "uses": "This medicine 165 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 165 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 166,
+    "display_name": "Medicine 166",
+    "names": [
+      "GenericName166",
+      "BrandName166"
+    ],
+    "imprints": [
+      "M166A",
+      "M166B"
+    ],
+    "uses": "This medicine 166 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 166 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 167,
+    "display_name": "Medicine 167",
+    "names": [
+      "GenericName167",
+      "BrandName167"
+    ],
+    "imprints": [
+      "M167A",
+      "M167B"
+    ],
+    "uses": "This medicine 167 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 167 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 168,
+    "display_name": "Medicine 168",
+    "names": [
+      "GenericName168",
+      "BrandName168"
+    ],
+    "imprints": [
+      "M168A",
+      "M168B"
+    ],
+    "uses": "This medicine 168 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 168 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 169,
+    "display_name": "Medicine 169",
+    "names": [
+      "GenericName169",
+      "BrandName169"
+    ],
+    "imprints": [
+      "M169A",
+      "M169B"
+    ],
+    "uses": "This medicine 169 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 169 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 170,
+    "display_name": "Medicine 170",
+    "names": [
+      "GenericName170",
+      "BrandName170"
+    ],
+    "imprints": [
+      "M170A",
+      "M170B"
+    ],
+    "uses": "This medicine 170 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 170 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 171,
+    "display_name": "Medicine 171",
+    "names": [
+      "GenericName171",
+      "BrandName171"
+    ],
+    "imprints": [
+      "M171A",
+      "M171B"
+    ],
+    "uses": "This medicine 171 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 171 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 172,
+    "display_name": "Medicine 172",
+    "names": [
+      "GenericName172",
+      "BrandName172"
+    ],
+    "imprints": [
+      "M172A",
+      "M172B"
+    ],
+    "uses": "This medicine 172 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 172 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 173,
+    "display_name": "Medicine 173",
+    "names": [
+      "GenericName173",
+      "BrandName173"
+    ],
+    "imprints": [
+      "M173A",
+      "M173B"
+    ],
+    "uses": "This medicine 173 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 173 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 174,
+    "display_name": "Medicine 174",
+    "names": [
+      "GenericName174",
+      "BrandName174"
+    ],
+    "imprints": [
+      "M174A",
+      "M174B"
+    ],
+    "uses": "This medicine 174 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 174 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 175,
+    "display_name": "Medicine 175",
+    "names": [
+      "GenericName175",
+      "BrandName175"
+    ],
+    "imprints": [
+      "M175A",
+      "M175B"
+    ],
+    "uses": "This medicine 175 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 175 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 176,
+    "display_name": "Medicine 176",
+    "names": [
+      "GenericName176",
+      "BrandName176"
+    ],
+    "imprints": [
+      "M176A",
+      "M176B"
+    ],
+    "uses": "This medicine 176 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 176 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 177,
+    "display_name": "Medicine 177",
+    "names": [
+      "GenericName177",
+      "BrandName177"
+    ],
+    "imprints": [
+      "M177A",
+      "M177B"
+    ],
+    "uses": "This medicine 177 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 177 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 178,
+    "display_name": "Medicine 178",
+    "names": [
+      "GenericName178",
+      "BrandName178"
+    ],
+    "imprints": [
+      "M178A",
+      "M178B"
+    ],
+    "uses": "This medicine 178 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 178 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 179,
+    "display_name": "Medicine 179",
+    "names": [
+      "GenericName179",
+      "BrandName179"
+    ],
+    "imprints": [
+      "M179A",
+      "M179B"
+    ],
+    "uses": "This medicine 179 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 179 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 180,
+    "display_name": "Medicine 180",
+    "names": [
+      "GenericName180",
+      "BrandName180"
+    ],
+    "imprints": [
+      "M180A",
+      "M180B"
+    ],
+    "uses": "This medicine 180 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 180 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 181,
+    "display_name": "Medicine 181",
+    "names": [
+      "GenericName181",
+      "BrandName181"
+    ],
+    "imprints": [
+      "M181A",
+      "M181B"
+    ],
+    "uses": "This medicine 181 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 181 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 182,
+    "display_name": "Medicine 182",
+    "names": [
+      "GenericName182",
+      "BrandName182"
+    ],
+    "imprints": [
+      "M182A",
+      "M182B"
+    ],
+    "uses": "This medicine 182 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 182 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 183,
+    "display_name": "Medicine 183",
+    "names": [
+      "GenericName183",
+      "BrandName183"
+    ],
+    "imprints": [
+      "M183A",
+      "M183B"
+    ],
+    "uses": "This medicine 183 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 183 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 184,
+    "display_name": "Medicine 184",
+    "names": [
+      "GenericName184",
+      "BrandName184"
+    ],
+    "imprints": [
+      "M184A",
+      "M184B"
+    ],
+    "uses": "This medicine 184 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 184 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 185,
+    "display_name": "Medicine 185",
+    "names": [
+      "GenericName185",
+      "BrandName185"
+    ],
+    "imprints": [
+      "M185A",
+      "M185B"
+    ],
+    "uses": "This medicine 185 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 185 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 186,
+    "display_name": "Medicine 186",
+    "names": [
+      "GenericName186",
+      "BrandName186"
+    ],
+    "imprints": [
+      "M186A",
+      "M186B"
+    ],
+    "uses": "This medicine 186 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 186 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 187,
+    "display_name": "Medicine 187",
+    "names": [
+      "GenericName187",
+      "BrandName187"
+    ],
+    "imprints": [
+      "M187A",
+      "M187B"
+    ],
+    "uses": "This medicine 187 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 187 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 188,
+    "display_name": "Medicine 188",
+    "names": [
+      "GenericName188",
+      "BrandName188"
+    ],
+    "imprints": [
+      "M188A",
+      "M188B"
+    ],
+    "uses": "This medicine 188 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 188 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 189,
+    "display_name": "Medicine 189",
+    "names": [
+      "GenericName189",
+      "BrandName189"
+    ],
+    "imprints": [
+      "M189A",
+      "M189B"
+    ],
+    "uses": "This medicine 189 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 189 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 190,
+    "display_name": "Medicine 190",
+    "names": [
+      "GenericName190",
+      "BrandName190"
+    ],
+    "imprints": [
+      "M190A",
+      "M190B"
+    ],
+    "uses": "This medicine 190 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 190 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 191,
+    "display_name": "Medicine 191",
+    "names": [
+      "GenericName191",
+      "BrandName191"
+    ],
+    "imprints": [
+      "M191A",
+      "M191B"
+    ],
+    "uses": "This medicine 191 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 191 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 192,
+    "display_name": "Medicine 192",
+    "names": [
+      "GenericName192",
+      "BrandName192"
+    ],
+    "imprints": [
+      "M192A",
+      "M192B"
+    ],
+    "uses": "This medicine 192 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 192 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 193,
+    "display_name": "Medicine 193",
+    "names": [
+      "GenericName193",
+      "BrandName193"
+    ],
+    "imprints": [
+      "M193A",
+      "M193B"
+    ],
+    "uses": "This medicine 193 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 193 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 194,
+    "display_name": "Medicine 194",
+    "names": [
+      "GenericName194",
+      "BrandName194"
+    ],
+    "imprints": [
+      "M194A",
+      "M194B"
+    ],
+    "uses": "This medicine 194 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 194 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 195,
+    "display_name": "Medicine 195",
+    "names": [
+      "GenericName195",
+      "BrandName195"
+    ],
+    "imprints": [
+      "M195A",
+      "M195B"
+    ],
+    "uses": "This medicine 195 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 195 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 196,
+    "display_name": "Medicine 196",
+    "names": [
+      "GenericName196",
+      "BrandName196"
+    ],
+    "imprints": [
+      "M196A",
+      "M196B"
+    ],
+    "uses": "This medicine 196 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 196 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 197,
+    "display_name": "Medicine 197",
+    "names": [
+      "GenericName197",
+      "BrandName197"
+    ],
+    "imprints": [
+      "M197A",
+      "M197B"
+    ],
+    "uses": "This medicine 197 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 197 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 198,
+    "display_name": "Medicine 198",
+    "names": [
+      "GenericName198",
+      "BrandName198"
+    ],
+    "imprints": [
+      "M198A",
+      "M198B"
+    ],
+    "uses": "This medicine 198 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 198 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 199,
+    "display_name": "Medicine 199",
+    "names": [
+      "GenericName199",
+      "BrandName199"
+    ],
+    "imprints": [
+      "M199A",
+      "M199B"
+    ],
+    "uses": "This medicine 199 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 199 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  },
+  {
+    "id": 200,
+    "display_name": "Medicine 200",
+    "names": [
+      "GenericName200",
+      "BrandName200"
+    ],
+    "imprints": [
+      "M200A",
+      "M200B"
+    ],
+    "uses": "This medicine 200 is used to treat common health conditions such as fever, pain, infection, or chronic diseases depending on its class.",
+    "benefits": "Medicine 200 provides therapeutic relief, improves health outcomes, and should be used under medical supervision."
+  }
+]
