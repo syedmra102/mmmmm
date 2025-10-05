@@ -36,3 +36,19 @@ if imprint:
             st.write(f"**Benefits ({lang}):** {translated_benefits}")
     else:
         st.error("Medicine not found in database.")
+
+
+
+
+
+
+
+from deep_translator import GoogleTranslator
+
+# Translator
+if lang:
+    translated_uses = GoogleTranslator(source='auto', target=lang).translate(med["uses"])
+    translated_benefits = GoogleTranslator(source='auto', target=lang).translate(med["benefits"])
+    st.write(f"**Uses ({lang}):** {translated_uses}")
+    st.write(f"**Benefits ({lang}):** {translated_benefits}")
+
