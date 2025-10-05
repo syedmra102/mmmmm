@@ -1,5 +1,5 @@
 import streamlit as st
-import json
+import json 
 from googletrans import Translator
 
 # Load medicines.json
