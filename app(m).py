@@ -1,7 +1,7 @@
 import streamlit as st
 import json 
 from googletrans import Translator
-
+ 
 # Load medicines.json
 with open("medicines.json", "r", encoding="utf-8") as f:
     medicines = json.load(f)
